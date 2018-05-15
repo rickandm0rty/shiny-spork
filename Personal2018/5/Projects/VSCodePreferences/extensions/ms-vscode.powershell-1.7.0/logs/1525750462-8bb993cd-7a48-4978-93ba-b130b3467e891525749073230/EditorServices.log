@@ -1,0 +1,40 @@
+﻿2018-05-07 21:34:23 [NORMAL] - Method "StartLogging" at line 163 of C:\projects\powershelleditorservices\src\PowerShellEditorServices.Host\EditorServicesHost.cs
+
+    PowerShell Editor Services Host v1.7.0.0 starting (pid 10260)...
+    
+      Host application details:
+    
+        Name:      Visual Studio Code Host
+        ProfileId: Microsoft.VSCode
+        Version:   1.7.0
+        Arch:      64-bit
+    
+      Operating system details:
+    
+        Version: Microsoft Windows NT 10.0.16299.0
+        Arch:    64-bit
+
+2018-05-07 21:34:23 [NORMAL] - Method "StartLanguageService" at line 195 of C:\projects\powershelleditorservices\src\PowerShellEditorServices.Host\EditorServicesHost.cs
+
+    Language service started, type = Tcp, endpoint = 27589
+
+2018-05-07 21:34:23 [NORMAL] - Method "StartDebugService" at line 264 of C:\projects\powershelleditorservices\src\PowerShellEditorServices.Host\EditorServicesHost.cs
+
+    Debug service started, type = Tcp, endpoint = 21469
+
+2018-05-07 21:34:24 [NORMAL] - Method "Initialize" at line 220 of C:\projects\powershelleditorservices\src\PowerShellEditorServices\Session\PowerShellContext.cs
+
+    PowerShell runtime version: 5.1.16299.251, edition: Desktop
+
+2018-05-07 21:34:26 [NORMAL] - Method "Register" at line 36 of C:\projects\powershelleditorservices\src\PowerShellEditorServices.VSCode\ComponentRegistration.cs
+
+    PowerShell Editor Services VS Code module loaded.
+
+2018-05-07 21:34:26 [ERROR] - Method "DispatchMessage" at line 147 of C:\projects\powershelleditorservices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageDispatcher.cs
+
+    MessageDispatcher: No handler registered for Event type 'initialized'
+
+2018-05-07 21:34:26 [ERROR] - Method "DispatchMessage" at line 147 of C:\projects\powershelleditorservices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageDispatcher.cs
+
+    MessageDispatcher: No handler registered for Event type '$/setTraceNotification'
+

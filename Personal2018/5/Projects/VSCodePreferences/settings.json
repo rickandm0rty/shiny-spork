@@ -1,0 +1,12 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Blueberry dark theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "material-icon-theme.folders.color": "#26a69a",
+    "material-icon-theme.activeIconPack": "react_redux",
+    "git.ignoreMissingGitWarning": true,
+    "files.autoSave": "onFocusChange",
+    "editor.cursorStyle": "block-outline",
+    "editor.fontSize": 18
+}

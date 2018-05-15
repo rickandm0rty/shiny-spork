@@ -1,0 +1,10 @@
+5/7/2018 9:34:22 PM [NORMAL] - Path specified by 'powerShellExePath' setting - '' - not found, reverting to default PowerShell path.
+5/7/2018 9:34:22 PM [NORMAL] - Language server starting --
+5/7/2018 9:34:22 PM [NORMAL] -     exe: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+5/7/2018 9:34:22 PM [NORMAL] -     args: C:\Users\kylez\.vscode\extensions\ms-vscode.powershell-1.7.0\modules\PowerShellEditorServices\Start-EditorServices.ps1 -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '1.7.0' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'C:\Users\kylez\.vscode\extensions\ms-vscode.powershell-1.7.0\modules' -EnableConsoleRepl -LogLevel 'Normal' -LogPath 'C:\Users\kylez\.vscode\extensions\ms-vscode.powershell-1.7.0\logs\1525750462-8bb993cd-7a48-4978-93ba-b130b3467e891525749073230\EditorServices.log' -SessionDetailsPath 'C:\Users\kylez\.vscode\extensions\ms-vscode.powershell-1.7.0\sessions\PSES-VSCode-13116-353936' -FeatureFlags @()
+5/7/2018 9:34:22 PM [NORMAL] - powershell.exe started, pid: 10260
+5/7/2018 9:34:24 PM [NORMAL] - Language server started.
+5/7/2018 9:34:24 PM [NORMAL] - {"debugServicePort":21469,"status":"started","debugServiceTransport":"Tcp","languageServiceTransport":"Tcp","languageServicePort":27589}
+5/7/2018 9:34:24 PM [NORMAL] - Connecting to language service on port 27589...
+5/7/2018 9:34:24 PM [NORMAL] - Language service connected.
+5/7/2018 9:40:42 PM [NORMAL] - powershell.exe terminated or terminal UI was closed
